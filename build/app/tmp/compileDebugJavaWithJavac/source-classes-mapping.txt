@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+nikhil/sharma/mi_card/BuildConfig.java
+ nikhil.sharma.mi_card.BuildConfig
